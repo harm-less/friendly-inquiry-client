@@ -7,9 +7,8 @@
     </h2>
     <p>
       Voor meer informatie over SE (Street Episitemologie) kunt u terecht bij de
-      volgende bronnen:
+      volgende bron:
     </p>
-    <h3>Meer informatie</h3>
     <ul>
       <li>
         <a href="https://streetepistemology.com/" target="_blank" rel="noopener"
