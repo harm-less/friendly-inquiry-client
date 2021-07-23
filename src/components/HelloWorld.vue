@@ -5,7 +5,9 @@
       Straat Epistemologie (SE) is gespreksmethode om betere gesprekken te
       voeren over lastige onderwerpen.
     </h2>
-    <p>Voor meer informatie over SE kunt u terecht bij de volgende bron:</p>
+    <p>
+      Voor meer informatie over SE kunt u terecht bij de volgende Engelse bron:
+    </p>
     <ul>
       <li>
         <a href="https://streetepistemology.com/" target="_blank" rel="noopener"
